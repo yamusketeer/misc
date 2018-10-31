@@ -1,0 +1,11 @@
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.10/vm51%20(OpenWrt%2018.06) vm51_%date:~12,2%%date:~7,2%%date:~4,2%.ova
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.10/vm55%20(OpenWrt%2018.06.1) vm55_%date:~12,2%%date:~7,2%%date:~4,2%.ova
+
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.122/vm36%20(ubuntu%2016.04.4%20LTS) E:\VMware\ESXi\Ubuntu-Server-16.04-LTS-amd64_%date:~12,2%%date:~7,2%%date:~4,2%.ova
+
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.122/vm23%20(Retired) "E:\VMware\ESXi\vm23 (TVH_Debian 8.3 x64) %date:~12,2%%date:~7,2%%date:~4,2%.ova"
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.122/vm28%20(Linux%204.9.0.bpo.3-amd64) "E:\VMware\ESXi\vm28 (PCE-AC88_Debian_8.4.9.30-2_Linux-4.9.0-0.bpo.3-amd64) %date:~12,2%%date:~7,2%%date:~4,2%.ova"
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.122/vm35%20(LibreELEC) "E:\VMware\ESXi\vm35_(LibreELEC)_%date:~12,2%%date:~7,2%%date:~4,2%.ova"
+
+
+"C:\Program Files\VMware\VMware OVF Tool\ovftool.exe" vi://root:Umli_2007@192.168.28.122/vm36%20(ubuntu%2016.04.4%20LTS) E:\VMware\ESXi\Ubuntu-Server-16.04-LTS-amd64_%date:~12,2%%date:~7,2%%date:~4,2%.ova
